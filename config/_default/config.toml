@@ -5,13 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-<<<<<<< HEAD
 title = "ALL STEM"
-||||||| cc2fb6b
-title = "Academic"
-=======
-#title = "STEM for All"
->>>>>>> f162c8c2eee14494eca4be8a18b348397feb3472
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
