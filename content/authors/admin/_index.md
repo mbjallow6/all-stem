@@ -15,7 +15,7 @@ role: Data Science Enthusias
 # Organizations/Affiliations
 organizations:
 - name: South China University of Technology
-  url: "https://github.com/mbjallow6"
+  url: "http://www2.scut.edu.cn/gzic_en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: From a Public Health practioner, Jallow is now a full time Data Science enthusias and passionate about impacting change in his community and Africa.
