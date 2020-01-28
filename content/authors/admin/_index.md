@@ -74,6 +74,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+He is currently working as Data Science (Intern) at Trio Industrial Electronics Group Limited in Guangzhou China while pursuing a Degree in Computer Science at South China University of Technology. At Trio, He is engaged in data analysis and creating visualizations for KPI dashboards. Due to his enthusiasm for Data Science, He had enrolled into different customized Data Science and its related course offered by renowned online platform like Udemy, Edx, Udacity, Google, Qlik Academic, IBM Watson , Microsoft Learn and Stanford.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before venturing into the field of Computer Science, immediately He attained a HND Public and Environmental Health, Jallow worked as Public Health Official at the Ministry of Health and Social Welfare of The Gambia from 2013 to 2016. During this period, he was fortunate to be among those on the frontlines to fight against the deadly Ebola Virus outbreak (2014-2015) in West Africa. Also, he has supervised numerous nationwide immunization campaigned. Among these are MenA  (Meningitis) Immunization Campaign 2013, Polio Immunization Campaign 2013,2014 and 2015. As well as supervise the nationwide Bed Net Distribution Campaign and Seasonal Malaria Chemoprevention. 
+Jallow started his Computer Science journey in 2016 at the University of The Gambia where he studied for 3 semesters before deciding to transfer to China.
+
+
+
